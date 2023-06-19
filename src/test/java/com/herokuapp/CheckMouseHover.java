@@ -32,7 +32,7 @@ public class CheckMouseHover {
 
         String userName = driver.findElement(By.xpath("//*[@id=\"content\"]/div/div[1]/div/h5")).getText();
 
-        Assert.assertEquals(userName, "name: user1", "User name should be name: user1");
+        Assert.assertEquals( "name: user1", userName, "User name should be name: user1");
     }
 
     @AfterClass
