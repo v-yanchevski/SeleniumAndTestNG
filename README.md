@@ -1,6 +1,6 @@
 # <div align="center">Hello there 👋, 
 
-I'm Vasil, a full-time Junior Manual QA 👨‍💻 with 1-year of experience 🚀</div>  
+I'm Vasil, a full-time Junior Manual QA 👨‍💻 with almost 2 years of experience 🚀</div>  
   
 
 - 🥇Certified ISTQB Foundation Level tester
